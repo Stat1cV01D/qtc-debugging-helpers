@@ -1,11 +1,9 @@
-
 # GCC std::variant debugging helper
 
 # Copyright (c) 2020 Stat1cV01D.
 
-# Use, modification and distribution is subject to the Boost Software License,
-# Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
-# http://www.boost.org/LICENSE_1_0.txt)
+# Use, modification and distribution is subject to the MIT License.
+# (See accompanying file LICENSE)
 
 from dumper import *
 
